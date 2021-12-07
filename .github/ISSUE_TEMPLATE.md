@@ -15,6 +15,7 @@ assignees: ''
     "avatar": "",
     "screenshot": "",
     "description": ""
+    "group": "这是友链"
 }
 ```
 
