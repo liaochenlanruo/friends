@@ -14,7 +14,7 @@ assignees: ''
     "url": "",
     "avatar": "",
     "screenshot": "",
-    "description": ""
+    "description": "",
     "group": "这是友链"
 }
 ```
